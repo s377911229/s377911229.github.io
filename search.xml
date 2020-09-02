@@ -404,4 +404,44 @@
         <tag>入门</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Python均值滤波</title>
+    <url>/2020/09/02/Python%E4%B8%AD%E5%80%BC%E6%BB%A4%E6%B3%A2/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">Hey, password is required here.</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="5dfb447661bb22c8465ec45ae0c28dfb831a95441dd2093907ee1eb1c04fccb4">52772986e7067783a14119666fde695b163db2386573e80841a28d355dbe90518bf0b432e923f674f54ab28e258f9c51a86beac71de904a8389edc5ac02632b3ec40685ce38487f8398e1757160c1e2a4676dc232f475170cc863a832558a2d9a2cb2a5d8bb96ba3396b6def99b1a054f52efc1be29228fac526cb7c0ae60296a907d4885a74f2fe4e693ab84ed23541b4a8361e5dd85e8f48724ee7906ff28776d2ad3334ed3c0263f645621fe8d437d6671ae3ddfe06fbc03d8fe229f905ebf6f7b1ee8b27533d2fc2e67d10984b6b1f8e923d2f49f82d91ace46cfcbe4d501b7cd69574d3514c92793aaf1d574c7aef40846601ec9ccbc21410932385df2df360a38a8c7d7485675b03afe98abfa1cb1447c6cce12b565446405b8e960af186942ea2943dee42e6a435e2fcd4001385e0b1f70bcffae8c057dad71268ce1dcb40ea48b7c0e3adf29bd2c3aafa772c7e9a915b9bca14fe5c3766bdbfbf453566870fd6ce937f32afc89cf5d3f1741dee1bc5b3fbc2fc72d477da37b1b8b59f71dd7cd951e38249ad6b064ce7091db1cb40c578e57d25ba4fe173f440601899e1cee9bede456b753845e33c94fdfaf63a5cfbfedec0a605d9d58476498766f56cffd0f6cdf1ec86ae76e62a7447d43d8cc7d9d8e23ebbb396d53447c9f6e64750b5033371f908ad54e039771288cdabdf74e485fb11e6c6c5164092f1d513b65cb378b468f3054a4afa029aa047d000d4af49c92e9719f0263d9a31ec52bd1a297cbb5730d6dc676a8ec3d4a70f17a41e3f2aded0de7d9a0af350bf1edb1f720f8ba5f0a6e8099f2840c1491320c2f88478890b661ca0ff15d11c30b9b7a350048efd3d0b3d7ab11f99949c0cf4b8c7375d1d6671e8c764e8a9c00aad02323641f4a815d95b002d67f7c03698428e9684585300b6e13e68d51f777abf86320e12c4dc19cdf6563264bb3b6b081a1984be34c01022324e0e3ce8eb3e56794d6eb6c37c7c6197e95102c0e5901cc8ae2f2043bd85e0886c3b147a616f9556506c75525c2f17c114669fcad3e4415c1223ced7f6b6f194dbe39ed3c1b9b61e7e998ff2d94ea10ea738614318d7999c00f6d7ed498513044d847e28dbfdee59fefb868dd67826de44c2a66e36ffee5d1f8922765f600eb04502d77fa98f09a3a340ea8c2bf20baaca420f9ebbb7289a851f0531f99d56da783b4c9ed84ebcc4766e1f2b224f35aa449462eed021780f2b19933cf43e5e58b8039e9880b39932f82af2343c2f101c80ea695c028f5b2fa52aa0c5c77674574f12adf6a99989db6ec6e65aca88936d24410f5a822e8f67cc3bab7c7f8ae5c2d33a35c0e3d4636edb5b9a02b2984d4247708468c9a71b1349babe5cca071a806d747dcc1eb10a02d723232898854305625bb44f3321f7e30185c52091b3c5695e3b0365063c5b61467061549677a03b968277029dee3eb2a296829f9b4e31d9100af2310cf7545bac2290d82f7bc5c47f7839236620515f4b763ca786309e7e509b963dba7e28457994fee0fca0d3b890084f94f203f1a41362377b4af128476345e6b07049b07db9aa97d1a9d2b69b368df4481cd69ab2b948f99d167fc57732729838d251cc1e35416e0b335b81354783f6c9696ab6b842d7d863ce99e25d4d140b4afdbcebf5b0fc2332bf52af6edd84d99fdc69401b1112ed0f6097bf991dd9e4cfcde39789590e7b401fd2cea102fc8fca136995181f7c0c479bedfdb9a40dc40fff466e5281e90d68ce5fc7b274dd6a8d1623c806a947b6d351a6efc5ce015244363c1e8c598e9dad82c5d4cfea07bb67e341327b651f6b9fab5e83c8bbf32fe6b0ac24c81a8ab9347c4f5c2449ec2dcd003ad7b83bc400d4b9eb2e781e835226f61244ef57997d886b380dce62f3e68a14f9223bd5e6a59a293c9f94481b29c60f0056bdabf495c0974668df2d12ce2fa260d69bfb59bb346c6d0a36fbc3b6fe65d78bd293a61d633c9ac3f46123051934e55ab9e709784e863a3509abd7992efbd70c5dd5f8ae067c4159f55f1ebb24af4f16bd19dd4f818a097a95b7f0846e4c117e3a5568</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>入门</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Tesseract字符识别</title>
+    <url>/2020/09/02/Tesseract%E5%AD%97%E7%AC%A6%E8%AF%86%E5%88%AB/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">Hey, password is required here.</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="8b0afe8be123b2ab7758b62550f2001ae96e3b17a28ea7916db93bd5603d68c6">52772986e7067783a14119666fde695b3d9c4c34e0dc1f1ec1e6dd3bd02f2c45177e7443023ad543b4a96ccbd45c5c369b12cc61d57dce8264ee8213f68d012c246ac2ad4aebae2b46934721570ea78e7b780c10efdc616c51dfc8981f60a95b575fc240d1a34488af7c31459dc41f3dc727c578122e95b570a62626206324c63fe94ba6db8e0a9d748f2750466c25df0997b15502d0cb76b385b882f416b01bd2f9568c4d4483065aa19603942b86476bb1a2a707126ca98d4d2a8a51a249fce6a054bb3c77c005fbbaa86b1d513562f5ffa2cddcc5b8ff947630465cb6015fac5b689be490d7df6133560fa5c223d8d594f704688ebd5c4f10c5e6d06c9aef5569fde95c2140a772507b05841395e56c661eba3f4197a128ffd191e810655d62d22bfc43dfc00f06d184dcf3b9b5b3ab86cdbc236c20bc53a0df59a451352af6a90aa6092186cb80552b5a0aabdb4b719cd7c06acc8a9dcac40b0631b09f96470071582b388978006b2470f7d0c559dc892538f9d371b7aa94966ac98b07c069439895c27197387effcd4e4171464e87fccd0d8ecaa340802906998e3b91e6</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>OCR</category>
+      </categories>
+      <tags>
+        <tag>入门</tag>
+        <tag>Tesseract</tag>
+      </tags>
+  </entry>
 </search>
