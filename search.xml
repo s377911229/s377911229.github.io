@@ -607,4 +607,25 @@
         <tag>Redis</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Python疲劳检测demo</title>
+    <url>/2020/09/08/Python%E7%96%B2%E5%8A%B3%E6%A3%80%E6%B5%8Bdemo/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">Hey, password is required here.</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="c683c003ea6730dc2bb4bed775646dd1580e2675737d5d72fefebcf98359c528">52772986e7067783a14119666fde695be6b5a3dd5563ce047bbb587a606e2cf95b1532ff259368b4aacd3945913c55536c336f2e7a3f057b69e1bedb40b584b3bc67a18a1bdc9a12eb512fd06b8bedf3d95a8eb335fe2b281330dbeab3e7cc5b770be371ee6222584d23d348e5d7dd0b52158e06b395564d5aee10743c7f594bd1a1f72531032a4a5b1fcefaa73d126f5b197fa9bea63197dbb32af3f31262962d6d8212b10615eb28317b1776b25dc78a9de6f3a28e95f1c1b370056d7fd76fcbad44c069649dcf138f708d6d3f61704d52e6ac4f3e51b86e47aa671d7c343204342c55333f07736340eee5f40f5b89d76e29389855ecd4cc183bfb8adae1cf5a3eb0242aa7fbe1e46921938fc8b63333f837fa034f2f3bffaf3cefd075b4bc39230ed9079010a9461589ff75be3c4f77c2daf30d57501e6815bf3bb02c00613c53a7649ee34371f19e1e572f6ee00351d76925f4fa8fb67f1ec25d1514c8d7de811ce19f9b47c8b1c29a92e3e745ae01e568d1b4e8c7a515fea38829bb9757</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>人脸检测</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>人脸检测</tag>
+        <tag>Github</tag>
+      </tags>
+  </entry>
 </search>
