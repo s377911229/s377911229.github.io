@@ -925,4 +925,23 @@
         <tag>CMake</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Linux独立运行程序</title>
+    <url>/2020/09/21/Linux%E7%8B%AC%E7%AB%8B%E8%BF%90%E8%A1%8C%E8%BF%9B%E7%A8%8B/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">Hey, password is required here.</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="c7d85a5d80441b791b1080f1e848bf1cc02f3663442cb03491fcf5a8cf3c4e37">52772986e7067783a14119666fde695be6b5a3dd5563ce047bbb587a606e2cf9913068cd6f7ed6f75a41a8c0a151f6eb7e12106be09194cfab60147075b865d8abf97b7f416eba51716bd24d02678e8ac80d6320163c43f255d31c0ad8e2971111d7403268150b45ade85b2d122f08e84c926439ce9e7f507b85bf24f192d42fc10b8e175fa3ce95a599b8d3237ef75d0b8e73b0e865cb41c8e0efde7b58efea386a2867ef9ac3e480448e51cfb5b95d4f951c759892323c4ad3e0d04bc3693e896e67bf02965057524858ab4191c2066c53acd4f7650f4a5f71ef28d6a11677fb1553da9e139cec8e1aca12aec403dd515dbedfe0cd41364b67dc34c5aabba3778ee6387a8ff56bd407ba0b548454a54fe259ded0818c1e82670a732d948cdebbc15ebe900d8a360bd351745a725c9f6bf9dc22e27af327d14e8a156f0eb87d5b4f788d2cd9f5dc1b27c736cbbded6b1fb09c584287d3e5b34da0726e5c8aabf2ffe4fb4292a1db76c2c68b2998d9207fdb0357eabec417f473409a8d7c7d066bfee646e6b1feae6cd2637ae7e2316b1fb440d5e6bd745a8462e46fdd4a19450f2525d949248ccd44b13b9176291e24024fc8fe45095b1c3fa76709860a69cd0da0a7cc245d70846843a4242f798c7c6b9ff1ab87451744e5e4610a053dbb34</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Linux</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
 </search>
