@@ -20,15 +20,22 @@
     var CONFIG = {"hostname":"yoursite.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta property="og:type" content="website">
-<meta property="og:title" content="Diary(Maybe)">
-<meta property="og:url" content="http://yoursite.com/tags/Github/index.html">
+  <meta name="description" content="Here&#39;s something encrypted, password is required to continue reading.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Semi-Supervised Classification with Graph Convolutional Networks - 1">
+<meta property="og:url" content="http://yoursite.com/2020/09/25/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks/index.html">
 <meta property="og:site_name" content="Diary(Maybe)">
+<meta property="og:description" content="Here&#39;s something encrypted, password is required to continue reading.">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2020-09-24T16:00:00.000Z">
+<meta property="article:modified_time" content="2020-09-25T14:58:37.369Z">
 <meta property="article:author" content="S Q">
+<meta property="article:tag" content="论文">
+<meta property="article:tag" content="ST-GCN">
+<meta property="article:tag" content="ICLR2017">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="http://yoursite.com/tags/Github/">
+<link rel="canonical" href="http://yoursite.com/2020/09/25/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks/">
 
 
 <script id="page-configurations">
@@ -36,12 +43,12 @@
   CONFIG.page = {
     sidebar: "",
     isHome : false,
-    isPost : false,
+    isPost : true,
     lang   : 'zh-CN'
   };
 </script>
 
-  <title>标签: Github | Diary(Maybe)</title>
+  <title>Semi-Supervised Classification with Graph Convolutional Networks - 1 | Diary(Maybe)</title>
   
 
 
@@ -177,51 +184,98 @@
         <div class="content-wrap">
           
 
-          <div class="content tag">
+          <div class="content post posts-expand">
             
 
+    
   
   
-  
-  <div class="post-block">
-    <div class="posts-collapse">
-      <div class="collection-title">
-        <h2 class="collection-header">Github
-          <small>标签</small>
-        </h2>
-      </div>
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2020/09/25/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="S Q">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Diary(Maybe)">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          Semi-Supervised Classification with Graph Convolutional Networks - 1
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2020-09-25 00:00:00 / 修改时间：22:58:37" itemprop="dateCreated datePublished" datetime="2020-09-25T00:00:00+08:00">2020-09-25</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%AE%BA%E6%96%87/" itemprop="url" rel="index"><span itemprop="name">论文</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
 
       
-    <div class="collection-year">
-      <span class="collection-header">2020</span>
-    </div>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2020-09-08T00:00:00+08:00"
-              content="2020-09-08">
-          09-08
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2020/09/08/Python%E7%96%B2%E5%8A%B3%E6%A3%80%E6%B5%8Bdemo/" itemprop="url">
-            <span itemprop="name">Python疲劳检测demo</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-    </div>
+        <div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">Hey, password is required here.</label>
+    <div class="bottom-line"></div>
   </div>
-  
-  
-  
+  <script id="hbeData" type="hbeData" data-hmacdigest="deda2b57ae9ea0d14c09cc6e46fece0dd0c70735255485f9f37e7b6b685e8ec7">52772986e7067783a14119666fde695b80a62ae5dd0ec9811bbb1d26f7c3fac056de7867be268737edb67030dca292db2d9dd9e0d88503d91a52101f9f6195123288d9795b183ad9b9e1341c7015d2ad788156a0793a7d14261527ead8db926024e8920d78c068524345b26a5a422ed9da4f9ada0d6c9756ab7ae342dcb3feddab43f1c8dcbdb79a3070b7b13644f1bea816853daac7f6dabd4547d6d223033804ae50b2a89166689f457e84d5c0801d23e7454a233d072b3020888137bbca05d57f724350601fc22a60e9b57bb75d7d702bc34ef1dba59b14f9c31419182f44713a4201445d711e710b846133ae527ad9fd747dd68ecb0ca75377a4e8c0d2136cbe2f01fe5bf4f2c3df3f4ced50c0a2009412ffb4e39b7f5bc8c8f2aa5b2e198d5d945da8c1143058063a8f0f5c1f56dc92d05eaf23e8a336b1a9ba0e53f9b5529a66fe24f5e11204b7d9f10c562638b865c0fafd152cbca2c9661393aebc8703973011a2d67d5bbb7a6350049516ffbc304a2e38c0d2e6ae6d04a4a9828baad371eb75ac5e5d7bf8e570dd8c31561e93b08bbd22b4318d22ac6dac27dc2c2008aef32dbc8090379f81d36e39bed9509ee8b49622218bdd33fed3a62a41c7712ebd267f21c29de973eb3cd4d4966c35be4b8a1a18a771426c13ae3f9720e9e4a880518c35b7ebc1fb06edf6c66056627d4ec398a2d37fd2c789eeb0f2a20d5427e442bcf89ec540ea41c7038c8faa0128a9cb0694e062e7ee00ab1f130c8d8000dc39426d6e60b517287cd45ec27aad0b9a379c8a46ec267b89884e8588ce3438c322c14f352d8f19d0a7faa14812eeadd1a0bd9bb263d2db72f2b3196e8a26ddafcbaaac3ec0fbf78fe6b2eaa96f5bca5675d2b34ffb25fc63190e1b30ed47fd57e4b9e313697628d384100397a37aedb2dab1f836800cf0ea732bd9af8994deb83fd02ceab7d07f7dce99c949570fd831cd027f28937e1e6a790abc11bb819eff53b05a9a9adf7c64bc41f7846511520605c6a7d8c2b37ceb43c1dfd3a9c0f4cbce16e2fbbc66f0437dbf70afc652e4c3b391658f282a8df3555d32046b252aad67f332c2521eff7f4f46840170f4cfce63583f69306d761a2353759939f5e0856b63a7b7df898ad46f636765801efdd57afd3dfc8e4228af4c0afab14d21851bf1c6d32b41d6d67e9c7b265fe41932268726d33b112281cc9fd0267733ad93c638895d123464ae7c54841497d1c5ee0de98e2e71c08a8a2032ee3d3cb7d87bcf2f859ca020d0e850e8b4bb6f1df4c95829d8f1b33f6ce24dcbd0e528a8941eadd9e9b67df7b7272c052a8adca6423624e79e1c3d0341d41c4a04fc25133ac11c8489deed526d598a96fd512acb45df1474354e7c1ba53e47d8e86f02b25ee2f16938f88114a2e4b98cbf6ee4c28a8d2b5f446291b282ca8e08ea17d9f07ff0f6962756b24dae8329cfbd161db240f9ba15aa4cb04d08d9e0caa41acf650e678c56b09c9faf93639555edd03db3b0f5a50207413afd0375a929423c06f8949957f0593b40275dd287796aa1f8f366df0f014e6445bd7b0a83709762a0c9e27d5446a50cb86c36eab1148203429075cfbbffe28a77f023a0a8465216d394c14c79da955b503d76c1e29b9f6f101db50b5c7b7498ab0b26cd0696fe40c25d78aae608f7d371e7334d428eb2dd6638fd86691039be9a9e2272a6872e6fa61620542c1ed4d8d6e618c96610f6955d241124b2f16fb91a78304aa5913762958bc4a69bceacb1e39b29158fd525d75a933fd886bf0fc78400089b81608099d61d0cbb0d4d31572bc53d2f05f9e65050c1164724f522ee562eb0665472594d269cd53a8433678935f9880b20ffba5102e66db05cc90e4a3c266bc2be29bc0ef948d2eb019e4bd314f38acd435d5a5cabde39a17e92c2d98ddf130014dffda16dc3c3a413bb22ec865f4a5d1e858fa4f31a706b21d8b98f7904f2ae9f20146a7eedd960af4c3de9cc39e420e9355b0e8f401917cf03c6dc5b9ef3b51864e49ddbb858dedeb01b41354b38983b2cab5307b091f6eaacaca7b430a52e58394debff160d0d82596b09dd87a291f231226c660678c7595dd35da3277b2c618f9b5f1880fc904529d7cda7a9b01ad203d61866f53c15ef5a3831055cc4981348e16a44517cb1a1bddb379f0d21998c541301c2b24a</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">
+    </div>
 
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E8%AE%BA%E6%96%87/" rel="tag"># 论文</a>
+              <a href="/tags/ST-GCN/" rel="tag"># ST-GCN</a>
+              <a href="/tags/ICLR2017/" rel="tag"># ICLR2017</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2020/09/21/Linux%E7%8B%AC%E7%AB%8B%E8%BF%90%E8%A1%8C%E8%BF%9B%E7%A8%8B/" rel="prev" title="Linux独立运行程序">
+      <i class="fa fa-chevron-left"></i> Linux独立运行程序
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
   
 
 
